@@ -11,9 +11,10 @@ function App() {
     <Router>
       <div className="flex flex-col min-h-screen">
         <Header />
-        <div className="flex-grow p-4 flex justify-center">
+        <div className="p-4 flex-grow ">
           <Main />
         </div>
+
         <Footer />
       </div>
     </Router>

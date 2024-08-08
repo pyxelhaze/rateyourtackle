@@ -1,6 +1,18 @@
 import { Link } from "react-router-dom";
-
+import Dropdown from './Dropdown';
 const Header = () => {
+
+    const dropdownItems = [
+        'Option 1',
+        'Option 2',
+        'Option 3',
+        'Option 4',
+        'Option 5',
+        'Option 6',
+    ];
+
+
+
     return (
         <div className="flex justify-center bg-blue-400 border-b-4  border-b-orange-600 " >
             <nav className="w-5/6 h-25 ">
