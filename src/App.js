@@ -14,7 +14,6 @@ function App() {
         <div className="p-4 flex-grow ">
           <Main />
         </div>
-
         <Footer />
       </div>
     </Router>
