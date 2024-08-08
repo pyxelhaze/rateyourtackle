@@ -14,7 +14,7 @@ const Header = () => {
 
 
     return (
-        <div className="flex justify-center bg-blue-400 border-b-4  border-b-orange-600 " >
+        <div className="flex justify-center bg-blue-400 border-b-2  border-b-orange-600 " >
             <nav className="w-5/6 h-25 ">
                 <h1 className="p-4 font-extrabold text-4xl text-orange-600">Rate Your Tackle</h1>
                 <div className="pl-4 text-xl text-white">
