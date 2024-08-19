@@ -3,6 +3,8 @@ import Header from './frontend/components/Header';
 import Footer from './frontend/components/Footer';
 import Main from './frontend/components/Main';
 import Rods from './frontend/components/Rods';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 import './index.css';
 
 

@@ -6,7 +6,6 @@ import MainContainer3 from './MainContainer3'
 const Main = ({ category }) => {
 
     const [tackle, setTackle] = useState([]);
-
     useEffect(() => {
         fetch('http://localhost:3001/articles')
             .then(res => res.json())
