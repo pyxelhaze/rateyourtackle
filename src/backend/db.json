@@ -1,0 +1,164 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "category": "Reel",
+      "name": "Shimano Stradic FL",
+      "brand": "Shimano",
+      "description": "High-quality spinning reel with smooth drag and durable build.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "category": "Reel",
+      "name": "Daiwa BG",
+      "brand": "Daiwa",
+      "description": "Heavy-duty reel perfect for saltwater fishing.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "category": "Rod",
+      "name": "St. Croix Mojo Bass",
+      "brand": "St. Croix",
+      "description": "Versatile rod designed for bass fishing.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "category": "Rod",
+      "name": "G. Loomis NRX+",
+      "brand": "G. Loomis",
+      "description": "High-performance rod for serious anglers.",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "category": "Line",
+      "name": "PowerPro Spectra",
+      "brand": "PowerPro",
+      "description": "Braided fishing line known for its strength and sensitivity.",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "category": "Line",
+      "name": "Seaguar InvizX",
+      "brand": "Seaguar",
+      "description": "Fluorocarbon line offering invisibility and durability.",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "category": "Lure",
+      "name": "Rapala X-Rap",
+      "brand": "Rapala",
+      "description": "Versatile jerkbait with realistic action.",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "category": "Lure",
+      "name": "Z-Man ChatterBait",
+      "brand": "Z-Man",
+      "description": "Vibrating jig ideal for targeting bass.",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "category": "Reel",
+      "name": "Abu Garcia Revo SX",
+      "brand": "Abu Garcia",
+      "description": "Low-profile baitcasting reel with excellent drag system.",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "category": "Reel",
+      "name": "Pflueger President",
+      "brand": "Pflueger",
+      "description": "Affordable spinning reel with smooth performance.",
+      "rating": 4.4
+    },
+    {
+      "id": 11,
+      "category": "Rod",
+      "name": "Fenwick HMG",
+      "brand": "Fenwick",
+      "description": "Lightweight and durable rod ideal for various fishing styles.",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "category": "Rod",
+      "name": "Dobyns Fury Series",
+      "brand": "Dobyns",
+      "description": "Versatile rod with great balance and sensitivity.",
+      "rating": 4.6
+    },
+    {
+      "id": 13,
+      "category": "Line",
+      "name": "Berkley Trilene XL",
+      "brand": "Berkley",
+      "description": "Smooth casting monofilament line with excellent manageability.",
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "category": "Line",
+      "name": "Sufix 832 Advanced Superline",
+      "brand": "Sufix",
+      "description": "Braided line with high strength and low diameter.",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "category": "Lure",
+      "name": "Zoom Trick Worm",
+      "brand": "Zoom",
+      "description": "Soft plastic worm perfect for finesse techniques.",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "category": "Lure",
+      "name": "Strike King KVD Square Bill",
+      "brand": "Strike King",
+      "description": "Square bill crankbait ideal for shallow water fishing.",
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "category": "Reel",
+      "name": "Okuma Ceymar C-30",
+      "brand": "Okuma",
+      "description": "Lightweight spinning reel with smooth operation.",
+      "rating": 4.4
+    },
+    {
+      "id": 18,
+      "category": "Rod",
+      "name": "Ugly Stik GX2",
+      "brand": "Ugly Stik",
+      "description": "Durable and affordable rod for beginners.",
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "category": "Line",
+      "name": "SpiderWire Stealth",
+      "brand": "SpiderWire",
+      "description": "Braided line with ultra-thin profile and high sensitivity.",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "category": "Lure",
+      "name": "Megabass Vision 110",
+      "brand": "Megabass",
+      "description": "High-end jerkbait with realistic action and finishes.",
+      "rating": 4.9
+    }
+  ]
+}
