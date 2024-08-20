@@ -14,6 +14,7 @@ module.exports = {
       borderRadius: {
         'scrollbar-thumb': '25px',
       },
+
     },
   },
   plugins: [
