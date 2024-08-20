@@ -6,7 +6,25 @@
       "name": "Shimano Stradic FL",
       "brand": "Shimano",
       "description": "High-quality spinning reel with smooth drag and durable build.",
-      "rating": 4.8
+      "overallRating": 4.8,
+      "priceRating": 4.7,
+      "qualityRating": 4.9,
+      "reviews": [
+        {
+          "username": "angler123",
+          "review": "The Shimano Stradic FL is by far the smoothest reel I’ve ever used. The drag is incredibly consistent, and I’ve landed some big fish with no issues. It’s a bit pricey, but the quality justifies the cost. Highly recommend it to serious anglers.",
+          "overall": 4.8,
+          "price": 4.5,
+          "quality": 4.9
+        },
+        {
+          "username": "fishermanJoe",
+          "review": "This reel has a great build quality and feels durable in hand. It’s lightweight, which is great for long fishing sessions. The drag system works flawlessly, even under heavy load. Worth every penny!",
+          "overall": 4.7,
+          "price": 4.6,
+          "quality": 4.8
+        }
+      ]
     },
     {
       "id": 2,
@@ -14,7 +32,25 @@
       "name": "Daiwa BG",
       "brand": "Daiwa",
       "description": "Heavy-duty reel perfect for saltwater fishing.",
-      "rating": 4.7
+      "overallRating": 4.7,
+      "priceRating": 4.6,
+      "qualityRating": 4.8,
+      "reviews": [
+        {
+          "username": "saltlife",
+          "review": "The Daiwa BG is my go-to reel for saltwater fishing. It’s incredibly tough and can handle the harsh conditions. The drag is smooth, and I’ve never had any issues with it. Definitely a great reel for the price.",
+          "overall": 4.7,
+          "price": 4.6,
+          "quality": 4.8
+        },
+        {
+          "username": "beachangler",
+          "review": "This reel is built like a tank! It’s heavier than others, but that’s what makes it so durable. I’ve caught some big fish with it, and it performs flawlessly. Highly recommended for saltwater anglers.",
+          "overall": 4.8,
+          "price": 4.5,
+          "quality": 4.9
+        }
+      ]
     },
     {
       "id": 3,
@@ -22,7 +58,25 @@
       "name": "St. Croix Mojo Bass",
       "brand": "St. Croix",
       "description": "Versatile rod designed for bass fishing.",
-      "rating": 4.6
+      "overallRating": 4.6,
+      "priceRating": 4.5,
+      "qualityRating": 4.7,
+      "reviews": [
+        {
+          "username": "bassmaster",
+          "review": "The Mojo Bass rod is incredibly versatile. I’ve used it in various situations and it never disappoints. The sensitivity is excellent, and it has a great balance of power and flexibility. The price is fair for the quality.",
+          "overall": 4.6,
+          "price": 4.3,
+          "quality": 4.7
+        },
+        {
+          "username": "fishingpro",
+          "review": "This rod has quickly become one of my favorites for bass fishing. The build quality is top-notch, and it handles well under pressure. A little more expensive than some alternatives, but worth it.",
+          "overall": 4.5,
+          "price": 4.4,
+          "quality": 4.6
+        }
+      ]
     },
     {
       "id": 4,
@@ -30,7 +84,25 @@
       "name": "G. Loomis NRX+",
       "brand": "G. Loomis",
       "description": "High-performance rod for serious anglers.",
-      "rating": 4.9
+      "overallRating": 4.9,
+      "priceRating": 4.8,
+      "qualityRating": 5.0,
+      "reviews": [
+        {
+          "username": "proangler",
+          "review": "The NRX+ is the best rod I’ve ever owned. It’s incredibly sensitive, yet has the backbone to handle big fish. The craftsmanship is excellent, but it does come with a high price tag.",
+          "overall": 4.9,
+          "price": 4.5,
+          "quality": 5.0
+        },
+        {
+          "username": "elitefisher",
+          "review": "This rod is worth every penny. The sensitivity is unmatched, and it’s perfect for targeting big bass. The build quality is amazing, though it’s definitely a premium product.",
+          "overall": 4.8,
+          "price": 4.6,
+          "quality": 5.0
+        }
+      ]
     },
     {
       "id": 5,
@@ -38,7 +110,25 @@
       "name": "PowerPro Spectra",
       "brand": "PowerPro",
       "description": "Braided fishing line known for its strength and sensitivity.",
-      "rating": 4.7
+      "overallRating": 4.7,
+      "priceRating": 4.6,
+      "qualityRating": 4.8,
+      "reviews": [
+        {
+          "username": "linecaster",
+          "review": "PowerPro Spectra is my go-to line for all types of fishing. It’s super strong and casts really well. A bit pricey, but it lasts a long time.",
+          "overall": 4.7,
+          "price": 4.4,
+          "quality": 4.8
+        },
+        {
+          "username": "angler202",
+          "review": "This line is incredibly tough. I’ve used it in both freshwater and saltwater, and it’s never let me down. The price is a bit high, but you get what you pay for.",
+          "overall": 4.6,
+          "price": 4.5,
+          "quality": 4.7
+        }
+      ]
     },
     {
       "id": 6,
@@ -46,7 +136,25 @@
       "name": "Seaguar InvizX",
       "brand": "Seaguar",
       "description": "Fluorocarbon line offering invisibility and durability.",
-      "rating": 4.6
+      "overallRating": 4.6,
+      "priceRating": 4.5,
+      "qualityRating": 4.7,
+      "reviews": [
+        {
+          "username": "stealthangler",
+          "review": "Seaguar InvizX is a great choice for clear water. The line is nearly invisible and has great knot strength. It’s a bit expensive, but the quality is top-notch.",
+          "overall": 4.6,
+          "price": 4.4,
+          "quality": 4.7
+        },
+        {
+          "username": "clearwaterfisher",
+          "review": "This line is fantastic for finesse fishing. It’s strong, yet nearly invisible underwater. I wish it was a bit cheaper, but the performance is excellent.",
+          "overall": 4.5,
+          "price": 4.3,
+          "quality": 4.6
+        }
+      ]
     },
     {
       "id": 7,
@@ -54,7 +162,9 @@
       "name": "Rapala X-Rap",
       "brand": "Rapala",
       "description": "Versatile jerkbait with realistic action.",
-      "rating": 4.8
+      "overallRating": 4.8,
+      "priceRating": 4.8,
+      "qualityRating": 4.8
     },
     {
       "id": 8,
@@ -62,7 +172,9 @@
       "name": "Z-Man ChatterBait",
       "brand": "Z-Man",
       "description": "Vibrating jig ideal for targeting bass.",
-      "rating": 4.7
+      "overallRating": 4.7,
+      "priceRating": 4.6,
+      "qualityRating": 4.8
     },
     {
       "id": 9,
@@ -70,7 +182,9 @@
       "name": "Abu Garcia Revo SX",
       "brand": "Abu Garcia",
       "description": "Low-profile baitcasting reel with excellent drag system.",
-      "rating": 4.5
+      "overallRating": 4.5,
+      "priceRating": 4.4,
+      "qualityRating": 4.6
     },
     {
       "id": 10,
@@ -78,7 +192,9 @@
       "name": "Pflueger President",
       "brand": "Pflueger",
       "description": "Affordable spinning reel with smooth performance.",
-      "rating": 4.4
+      "overallRating": 4.4,
+      "priceRating": 4.5,
+      "qualityRating": 4.3
     },
     {
       "id": 11,
@@ -86,7 +202,9 @@
       "name": "Fenwick HMG",
       "brand": "Fenwick",
       "description": "Lightweight and durable rod ideal for various fishing styles.",
-      "rating": 4.5
+      "overallRating": 4.5,
+      "priceRating": 4.4,
+      "qualityRating": 4.6
     },
     {
       "id": 12,
@@ -94,7 +212,9 @@
       "name": "Dobyns Fury Series",
       "brand": "Dobyns",
       "description": "Versatile rod with great balance and sensitivity.",
-      "rating": 4.6
+      "overallRating": 4.6,
+      "priceRating": 4.5,
+      "qualityRating": 4.7
     },
     {
       "id": 13,
@@ -102,7 +222,9 @@
       "name": "Berkley Trilene XL",
       "brand": "Berkley",
       "description": "Smooth casting monofilament line with excellent manageability.",
-      "rating": 4.5
+      "overallRating": 4.5,
+      "priceRating": 4.4,
+      "qualityRating": 4.6
     },
     {
       "id": 14,
@@ -110,7 +232,9 @@
       "name": "Sufix 832 Advanced Superline",
       "brand": "Sufix",
       "description": "Braided line with high strength and low diameter.",
-      "rating": 4.7
+      "overallRating": 4.7,
+      "priceRating": 4.6,
+      "qualityRating": 4.8
     },
     {
       "id": 15,
@@ -118,7 +242,9 @@
       "name": "Zoom Trick Worm",
       "brand": "Zoom",
       "description": "Soft plastic worm perfect for finesse techniques.",
-      "rating": 4.8
+      "overallRating": 4.8,
+      "priceRating": 4.7,
+      "qualityRating": 4.9
     },
     {
       "id": 16,
@@ -126,7 +252,9 @@
       "name": "Strike King KVD Square Bill",
       "brand": "Strike King",
       "description": "Square bill crankbait ideal for shallow water fishing.",
-      "rating": 4.7
+      "overallRating": 4.7,
+      "priceRating": 4.6,
+      "qualityRating": 4.8
     },
     {
       "id": 17,
@@ -134,7 +262,9 @@
       "name": "Okuma Ceymar C-30",
       "brand": "Okuma",
       "description": "Lightweight spinning reel with smooth operation.",
-      "rating": 4.4
+      "overallRating": 4.4,
+      "priceRating": 4.5,
+      "qualityRating": 4.3
     },
     {
       "id": 18,
@@ -142,7 +272,9 @@
       "name": "Ugly Stik GX2",
       "brand": "Ugly Stik",
       "description": "Durable and affordable rod for beginners.",
-      "rating": 4.5
+      "overallRating": 4.5,
+      "priceRating": 4.4,
+      "qualityRating": 4.6
     },
     {
       "id": 19,
@@ -150,7 +282,9 @@
       "name": "SpiderWire Stealth",
       "brand": "SpiderWire",
       "description": "Braided line with ultra-thin profile and high sensitivity.",
-      "rating": 4.6
+      "overallRating": 4.6,
+      "priceRating": 4.5,
+      "qualityRating": 4.7
     },
     {
       "id": 20,
@@ -158,7 +292,9 @@
       "name": "Megabass Vision 110",
       "brand": "Megabass",
       "description": "High-end jerkbait with realistic action and finishes.",
-      "rating": 4.9
+      "overallRating": 4.9,
+      "priceRating": 4.8,
+      "qualityRating": 5.0
     }
   ]
 }

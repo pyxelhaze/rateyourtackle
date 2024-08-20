@@ -1,13 +1,5 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-
-module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
@@ -19,7 +11,12 @@ module.exports = {
       spacing: {
         'custom-spacing': '10rem',
       },
+      borderRadius: {
+        'scrollbar-thumb': '25px',
+      },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar'),
+  ],
 }

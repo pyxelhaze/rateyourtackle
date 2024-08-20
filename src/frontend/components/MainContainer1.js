@@ -48,15 +48,44 @@ const MainContainer1 = ({ tackle }) => {
                 {tackle.map(item => (
                     <div key={item.id} className="p-2">
                         <div className="h-40 w-full p-1 border rounded border-blue-400 hover:border-2 cursor-pointer">
-                            <p className="text-start pb-1">{truncateText(item.name, 18)}</p>
-                            <p className="text-start pb-3">{item.category}</p>
-                            <StarRatings
-                                rating={item.rating}
-                                starRatedColor="orange"
-                                numberOfStars={5}
-                                starDimension='15px'
-                                starSpacing="0"
-                            />
+                            <p className="text-start font-semibold p-1 whitespace-nowrap overflow-hidden truncate">{truncateText(item.name, 20)}</p>
+                            <p className="text-start text-sm pb-3 px-1">{item.category}</p>
+                            <div className="flex flex-row justify-between px-1">
+                                <p className="text-start pb-1 pr-4">Overall</p>
+                                <StarRatings
+                                    rating={item.overallRating}
+                                    starRatedColor="orange"
+                                    numberOfStars={5}
+                                    starDimension='15px'
+                                    starSpacing="0"
+                                    className="pr-4"
+                                />
+                            </div>
+                            <div className="flex flex-row justify-between px-1">
+                                <p className="text-start pb-1 pr-4">Price</p>
+                                <StarRatings
+                                    rating={item.priceRating}
+                                    starRatedColor="orange"
+                                    numberOfStars={5}
+                                    starDimension='15px'
+                                    starSpacing="0"
+
+                                />
+                            </div>
+                            <div className="flex flex-row justify-between px-1">
+                                <p className="text-start pb-1 pr-4">Quality</p>
+                                <StarRatings
+                                    rating={item.qualityRating}
+                                    starRatedColor="orange"
+                                    numberOfStars={5}
+                                    starDimension='15px'
+                                    starSpacing="0"
+
+                                />
+                            </div>
+
+
+
                         </div>
                     </div>
                 ))}
