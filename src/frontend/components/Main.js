@@ -22,7 +22,7 @@ const Main = ({ category }) => {
             <div className="w-5/6 flex flex-col" >
 
                 <MainContainer1 tackle={filteredTackle} />{/*  contains top tackle */}
-                <div className="flex flex-row  mt-5">
+                <div className="flex flex-row  mt-5 mb-7">
                     <MainContainer2 tackle={filteredTackle} /> {/* contains new ratings */}
                     <MainContainer3 tackle={filteredTackle} />   {/* contains new tackle */}
                 </div>
